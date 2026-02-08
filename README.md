@@ -10,6 +10,7 @@ I'm a 2nd year B.Tech CSE student looking to collaborate on app development and 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/aditraj-sharma-b29068364?utm_source=share&utm_campaign=...)
+- [Leetcode](https://leetcode.com/u/theCodingAdi/)
 
 ## Projects & Stats
 
