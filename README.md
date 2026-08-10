@@ -2,7 +2,6 @@
 
 **Aditraj Sharma**
 
-*"too many tabs open"*
 
 ♪ ♫'───..・' ♬
 
@@ -24,7 +23,7 @@ real systems, not side projects. interned at **eazzio**, touched payroll, securi
 
 ---
 
-**stack i actually use**
+**stack i use**
 
 ```
 backend     node.js · express · prisma · postgresql · rest · jwt
@@ -48,4 +47,7 @@ learning ml and shipping it — every concept gets built, not just studied.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditraj-sharma-b29068364)
 [![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/theCodingAdi/)
 
-
+---
+<div align="center">
+<sub>coffee.exe not found.</sub>
+</div>
