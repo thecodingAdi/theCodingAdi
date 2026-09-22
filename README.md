@@ -34,7 +34,7 @@ tools       git · github actions · render · vercel · linux
 
 ---
 
-3× hackathon participant — gdg ranchi (shortlisted) · ai bharat · sih 2026
+3× hackathon participant — gdg ranchi (shortlisted) · ai bharat · SIH 2026
 
 ---
 
